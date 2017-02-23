@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">InClass4</string>
+    <string name="txtheading">Select News Source</string>
+    <string name="buttonGetNews">Get News</string>
+    <string name="btnFinish">Finish</string>
+    <string name="URL1">https://newsapi.org/v1/articles?apiKey=</string>
+    <string name="APIKey">ffa566bd87084636ad71d094445783d5</string>
+    <string name="URL2">source=</string>
+
+
+    <string-array name="NewArray">
+        <item>Select</item>
+        <item>BBC</item>
+        <item>CNN</item>
+        <item>Buzzfeed</item>
+        <item>ESPN</item>
+        <item>Sky News</item>
+    </string-array>
+</resources>
